@@ -97,6 +97,10 @@ Synthetic Data as API with higher level functionality such model training, fine-
 
 ## Datasets
 [Back to Top](#contents)
+* [HuggingFace Datasets](https://huggingface.co/docs/datasets/index) - Library for easily accessing and sharing datasets, and evaluation metrics for Natural Language Processing (NLP), computer vision, and audio tasks.
+* [Google Cloud Public Datasets](https://cloud.google.com/datasets) - Publicly available and free machine learning and analytics datasets.
+* [Kaggle Datasets](https://www.kaggle.com/datasets) - Data science and machine learning datasets.
+* [/r/datasets](https://www.reddit.com/r/datasets/) - A place to share, find, and discuss Datasets.
 
 ## License
 [License](./LICENSE) - CC0
