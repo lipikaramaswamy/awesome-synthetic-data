@@ -14,19 +14,26 @@ Also, a listed repository should be deprecated if:
 ## Contents
 
 * [Research Summaries and Trends](#research-summaries-and-trends)
-* [Academic Papers](#academic-papers)
 * [Tutorials](#tutorials)
   * [Reading Content](#reading-content)
   * [Videos and Online Courses](#videos-and-online-courses)
 * [Libraries](#libraries)
+  * [Text](#text)
+  * [Tabular](#tabular)
+  * [Time Series](#time-series)
+  * [Image](#image)
+  * [Audio](#audio)
+  * [Simulation](#simulation)
+* [Academic Papers](#academic-papers)
+  * [Language Models](#language-models)
+  * [Generative Adversarial Networks (GANs)](#generative-adversarial-networks-gans)
+  * [Diffusion Models](#diffusion-models)
+  * [Fair AI](#fair-ai)
 * [Services](#services)
 * [Prominent Synthetic Data Research Labs](#prominent-synthetic-data-research-labs)
 * [Datasets](#datasets)
 
 ## Research Summaries and Trends
-[Back to Top](#contents)
-
-## Academic Papers
 [Back to Top](#contents)
 
 ## Tutorials
@@ -45,18 +52,41 @@ Videos and Online Courses
 [Back to Top](#contents)
 
 ## Libraries
-Open Source Synthetic Data Libraries and Frameworks | [Back to Top](#contents)
+Open Source Generative Synthetic Data Models, Libraries and Frameworks | [Back to Top](#contents)
 
-Text
+### Text, Tabular and Time-Series
 
-Tabular
+* [gretel-synthetics](https://github.com/gretelai/gretel-synthetics) - Generative models for structured and unstructured text, tabular, and multi-variate time-series data featuring differentially private learning.
+* [SDV](https://github.com/sdv-dev/SDV) - Synthetic Data Generator for tabular, relational, and time series data.
+* [Synthea](https://github.sre.pub/synthetichealth/synthea) - Synthetic Patient Population Simulator.
+* [ydata-synthetic](https://github.com/ydataai/ydata-synthetic) - Synthetic structured data generators.
 
-Image
+### Images
+* [Contrastive Unpaired Translation](https://github.com/taesungp/contrastive-unpaired-translation) - Contrastive unpaired image-to-image translation, faster and lighter training than cyclegan.
+* [StyleGAN 3](https://github.com/NVlabs/stylegan3) - Official PyTorch implementation of StyleGAN3 from NeurIPS 2021.
 
-Audio
+### Audio
+* [Jukebox](https://github.com/openai/jukebox/) - OpenAI's Jukebox- A Generative Model for Music.
 
-Simulation
+### Simulation
+* [OpenAI Gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
+* [Nvidia Dataset Synthesizer](https://github.com/NVIDIA/Dataset_Synthesizer) - NDDS is a UE4 plugin from NVIDIA to empower computer vision researchers to export high-quality synthetic images with metadata.
+* [Unity Perception](https://github.com/Unity-Technologies/com.unity.perception) Perception toolkit for sim2real training and validation in Unity.
+* [AirSim](https://microsoft.github.io/AirSim/) - AirSim is a simulator for drones, cars and more, built on Unreal and Unity engines.
 
+## Academic Papers
+[Back to Top](#contents)
+
+### Language Models
+
+### Generative Adversarial Networks (GANs)
+
+### Diffusion Models
+* **Generative Modeling by Estimating Gradients of the Data Distribution** (2021) Yang Song [[pdf]](https://yang-song.github.io/blog/2021/score/)
+* **Diffusion Models are Autoencoders** S. Dielman (2021) [[pdf]](https://benanne.github.io/2022/01/31/diffusion.html)
+* **Deep Unsupervised Learning using Nonequilibrium Thermodynamics** (2015) J Sohl-Dickstein et al. [[pdf]](https://arxiv.org/pdf/1503.03585.pdf)
+
+### Fair AI
 
 ## Services
 Synthetic Data as API with higher level functionality such model training, fine-tuning, and generation | [Back to Top](#contents)
