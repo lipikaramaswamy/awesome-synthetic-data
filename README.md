@@ -96,7 +96,7 @@ Open Source Generative Synthetic Data Models, Libraries and Frameworks | [Back t
 * **An Efficient DP-SGD Mechanism for Large Scale NLP Models** (2021) Dupuy et al. [[pdf]](https://arxiv.org/pdf/2107.14586.pdf)
 * **PATE-GAN: Generating Synthetic Data with Differential Privacy Guarantees** (2018) Jordon et al. [[pdf]](https://openreview.net/pdf?id=S1zk9iRqF7)
 * **Don't Generate Me: Training Differentially Private Generative Models with Sinkhorn Divergence** (2021) Cao et al. [[pdf]](https://arxiv.org/pdf/2111.01177.pdf)
-* 
+* **Differentially Private Fine-tuning of Language Models** (2022) Yu et al. [[pdf]](https://openreview.net/pdf?id=Q42f0dfjECO)
 
 ## Services
 Synthetic Data as API with higher level functionality such model training, fine-tuning, and generation | [Back to Top](#contents)
