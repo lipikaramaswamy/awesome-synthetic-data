@@ -5,8 +5,8 @@
 A curated list of resources dedicated to Synthetic Data
 
 _If you want to contribute to this list (please do), send me a pull request or contact me [@AlexWatson405](https://twitter.com/alexwatson405)._
-Also, a listed repository should be deprecated if:
 
+Also, a listed repository should be deprecated if:
 * Repository's owner explicitly says that "this library is not maintained".
 * Not committed for a long time (2~3 years).
 
@@ -81,6 +81,7 @@ Open Source Generative Synthetic Data Models, Libraries and Frameworks | [Back t
 ### Language Models
 
 ### Generative Adversarial Networks (GANs)
+* **Modeling Tabular Data using Conditional GAN** (2019) Xu et al. [[pdf]](https://arxiv.org/pdf/1907.00503.pdf)
 
 ### Diffusion Models
 * **Generative Modeling by Estimating Gradients of the Data Distribution** (2021) Yang Song [[pdf]](https://yang-song.github.io/blog/2021/score/)
@@ -88,6 +89,13 @@ Open Source Generative Synthetic Data Models, Libraries and Frameworks | [Back t
 * **Deep Unsupervised Learning using Nonequilibrium Thermodynamics** (2015) J Sohl-Dickstein et al. [[pdf]](https://arxiv.org/pdf/1503.03585.pdf)
 
 ### Fair AI
+
+### Algorithmic Privacy
+* **Deep Learning with Differential Privacy** (2016) Abadi et al. [[pdf]](https://arxiv.org/pdf/1607.00133.pdf)
+* **An Efficient DP-SGD Mechanism for Large Scale NLP Models** (2021) Dupuy et al. [[pdf]](https://arxiv.org/pdf/2107.14586.pdf)
+* **PATE-GAN: Generating Synthetic Data with Differential Privacy Guarantees** (2018) Jordon et al. [[pdf]](https://openreview.net/pdf?id=S1zk9iRqF7)
+* **Don't Generate Me: Training Differentially Private Generative Models with Sinkhorn Divergence** (2021) Cao et al. [[pdf]](https://arxiv.org/pdf/2111.01177.pdf)
+* 
 
 ## Services
 Synthetic Data as API with higher level functionality such model training, fine-tuning, and generation | [Back to Top](#contents)
