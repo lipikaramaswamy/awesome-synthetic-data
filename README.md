@@ -29,6 +29,7 @@ Also, a listed repository should be deprecated if:
   * [Generative Adversarial Networks (GANs)](#generative-adversarial-networks-gans)
   * [Diffusion Models](#diffusion-models)
   * [Fair AI](#fair-ai)
+  * [Algorithmic Privacy](#algorithmic-privacy)
 * [Services](#services)
 * [Prominent Synthetic Data Research Labs](#prominent-synthetic-data-research-labs)
 * [Datasets](#datasets)
